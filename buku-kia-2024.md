@@ -467,13 +467,13 @@ Jika mengalami tanda bahaya pada proses melahirkan, petugas kesehatan segera ruj
 
 ## Proses Melahirkan (Diisi oleh ibu)
 
-- ☐ Tanda-tanda akan bersalin didahului dengan mulas teratur, semakin lama semakin kuat.
-- ☐ Pada kehamilan pertama, biasanya bayi baru lahir setelah 12 jam sejak mulas-mulas. Pada kehamilan kedua dan berikutnya, biasanya bayi lahir lebih cepat dibandingkan anak pertama.
-- ☐ Ibu berhak memilih didampingi atau tidak, dan siapa pendampingnya.
-- ☐ Ibu berhak memilih posisi proses melahirkan yang diinginkan, diskusikan dengan petugas posisi yang aman.
-- ☐ Jika terasa ingin buang air besar, segera beritahu petugas.
-- ☐ Untuk mengurangi rasa sakit ketika bersalin, tarik nafas melalui hidung dan keluarkan lewat mulut.
-- ☐ Setelah bayi lahir, lakukan Inisiasi Menyusu Dini (IMD) dengan cara kontak kulit ke kulit antara bayi dan ibunya segera setelah kelahiran dan berlangsung selama 1 jam.
+[ ] Tanda-tanda akan bersalin didahului dengan mulas teratur, semakin lama semakin kuat.  
+[ ] Pada kehamilan pertama, biasanya bayi baru lahir setelah 12 jam sejak mulas-mulas. Pada kehamilan kedua dan berikutnya, biasanya bayi lahir lebih cepat dibandingkan anak pertama.  
+[ ] Ibu berhak memilih didampingi atau tidak, dan siapa pendampingnya.  
+[ ] Ibu berhak memilih posisi proses melahirkan yang diinginkan, diskusikan dengan petugas posisi yang aman.  
+[ ] Jika terasa ingin buang air besar, segera beritahu petugas.  
+[ ]Untuk mengurangi rasa sakit ketika bersalin, tarik nafas melalui hidung dan keluarkan lewat mulut.  
+[ ] Setelah bayi lahir, lakukan Inisiasi Menyusu Dini (IMD) dengan cara kontak kulit ke kulit antara bayi dan ibunya segera setelah kelahiran dan berlangsung selama 1 jam.
 
 ---
 
@@ -554,8 +554,8 @@ Selamat, ibu sudah melahirkan si kecil! Pada masa ini, ibu ayah dan keluarga per
 Cek kondisi Ibu setiap hari dan beri tanda (✔) centang jika mengalami kondisi dalam kotak-kotak di bawah ini. Segera ke Puskesmas untuk periksa.
 
 | Hari ke- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 |
-|----------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| Tanggal, Nama & Paraf Kader/Nakes | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Tanggal, Nama & Paraf Kader/Nakes | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 ---
 
@@ -851,7 +851,7 @@ Cek kondisi bayi setiap hari dan beri tanda (✔) centang jika mengalami kondisi
 **Napas Normal: 40 - 60x/menit. Sesak/napas cepat/napas pelan/dada tertarik ke dalam: Napas < 40x/menit atau > 60x/menit.**
 
 | Hari ke- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-|----------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sesak napas/napas cepat/dada tertarik ke dalam | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Aktivitas tampak lemah/tidak bergerak/menangis/merintih | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Warna kulit tampak biru/memar di sekitar mulut/tangan/kaki | | | | | | | | | | | | | | | | | | | | | | | | | | | | |

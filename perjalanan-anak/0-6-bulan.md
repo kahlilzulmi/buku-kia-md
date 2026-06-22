@@ -99,7 +99,7 @@ Cek kondisi bayi setiap hari dan beri tanda (✔) centang jika mengalami kondisi
 **Napas Normal: 40 - 60x/menit. Sesak/napas cepat/napas pelan/dada tertarik ke dalam: Napas < 40x/menit atau > 60x/menit.**
 
 | Hari ke- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-|----------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Sesak napas/napas cepat/dada tertarik ke dalam | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Aktivitas tampak lemah/tidak bergerak/menangis/merintih | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Warna kulit tampak biru/memar di sekitar mulut/tangan/kaki | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
