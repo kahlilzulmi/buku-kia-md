@@ -25,7 +25,7 @@ Proyek ini tidak sekadar melakukan *copy-paste*, melainkan melalui proses rekaya
 
 ---
 
-## 📁 Struktur Dokumen
+## Struktur Dokumen
 
 Repositori ini dibagi berdasarkan bagian utama pada Buku KIA:
 
@@ -53,5 +53,7 @@ buku-kia-md/
 │   └── pencatatan-anak.md
 │
 ├── buku-kia-2024.md
+├── CONTRIBUTING.md
+├── LICENSE.md
 └── README.md
 ```
