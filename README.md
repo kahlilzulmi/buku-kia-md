@@ -1,10 +1,12 @@
 # buku-kia-md
 
-<p align="center">
+<div align="center">
+  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Format: Markdown](https://img.shields.io/badge/Format-Markdown-blue.svg)]()
 [![Focus: HealthTech](https://img.shields.io/badge/Focus-HealthTech%20%7C%20AI%20Ready-emerald.svg)]()
-</p>
+  
+</div>
 
 Digitalisasi dan penataan ulang dokumen resmi **Buku Kesehatan Ibu dan Anak (KIA)** dari Kementerian Kesehatan (Kemenkes) Republik Indonesia ke dalam format **Markdown (`.md`)**. 
 
